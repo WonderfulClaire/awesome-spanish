@@ -48,3 +48,5 @@
 ---
 
 📖 [学习方法论](docs/method.md)
+
+- [LingoGrove](https://lingogrove.com/) — Free Spanish grammar references (reflexive verbs, conjugations).
